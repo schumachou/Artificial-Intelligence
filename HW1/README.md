@@ -1,7 +1,7 @@
 # Search Algorithms
 Put baby lizards in the nursery and prevent them from attacking each other. There may be some trees planted in the nursery. Lizards cannot shoot their tongues through the trees.
 
-Solve this problem with 3 different search algorithm:
+Solve this problem by implementing 3 different search algorithms:
 * Breadth-first search (BFS)
 * Depth-first search (DFS)
 * Simulated annealing (SA)

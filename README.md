@@ -1,6 +1,6 @@
 # Artificial Intelligence
 ## HW1
-Implemented three different search algorithms to solve an advanved q-queen problem: there might be some obstacles on the chessboard that would block any queen from seeing another if it is in the path.
+Implemented three different search algorithms to solve an advanved q-queen problem: there might be some obstacles that would block any queen from seeing another if it is in the path.
 * BFS
 * DFS
 * Simulated Annealing
